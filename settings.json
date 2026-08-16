@@ -1,0 +1,11 @@
+{
+  "python.languageServer": "Pylance",
+  "python.locator": "js",
+  "python.analysis.extraPaths": [
+    "./",
+    "./ai_civic_services"
+  ],
+  "python.analysis.diagnosticSeverityOverrides": {
+    "reportMissingImports": "warning"
+  }
+}
